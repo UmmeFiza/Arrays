@@ -1,2 +1,2 @@
 # Arrays
-Program based on array.
+Implementation of programs based on array in JAVA.
